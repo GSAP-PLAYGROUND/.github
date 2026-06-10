@@ -1,4 +1,4 @@
-# GSAP Playground 🎨
+# GSAP Playground 
 
 > An open-source animation component library built with **Next.js**, **GSAP**, and **Lenis** — for developers who want to learn and build modern web animations together.
 
