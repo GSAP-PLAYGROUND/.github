@@ -9,7 +9,7 @@ keywords: GSAP component library, GSAP Next.js, GSAP animations React, open sour
 
 > The open-source **GSAP animation component library** for Next.js developers — learn, copy, and contribute modern web animation patterns built with **GSAP 3.15**, **Next.js 16**, and **Lenis**.
 
-**[Live Demo](https://gsap-playground.xyz)** • **[Contributing Guide](#contributing)** • **[Roadmap](#roadmap)** • **[npm (coming soon)](#roadmap)**
+**[Live Demo](https://gsap-playground.xyz)** • **[Contributing Guide](#contributing)** • **[Roadmap](#roadmap)**  
 
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?style=flat-square)
 ![GSAP](https://img.shields.io/badge/GSAP-3.15-88CE02?style=flat-square)
