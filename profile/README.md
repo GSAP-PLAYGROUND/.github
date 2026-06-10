@@ -15,7 +15,8 @@ keywords: GSAP component library, GSAP Next.js, GSAP animations React, open sour
 ![GSAP](https://img.shields.io/badge/GSAP-3.15-88CE02?style=flat-square)
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
-![Contributors](https://img.shields.io/github/contributors/GSAP-PLAYGROUND/gsap-playground?style=flat-square)
+
+<!-- [Contributors](https://img.shields.io/github/contributors/GSAP-PLAYGROUND/gsap-playground?style=flat-square) -->
 
 ---
 
