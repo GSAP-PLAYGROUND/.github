@@ -1,28 +1,28 @@
 <!-- SEO Meta Block — paste this in your Next.js layout.tsx or head -->
 <!--
-title: GSAP Animation Playground — Open Source GSAP Component Library for Next.js
-description: A free, open-source GSAP animation component library built with Next.js 16, React 19, and Lenis. Learn and build modern web animations with reusable, copy-paste ready components.
-keywords: GSAP component library, GSAP Next.js, GSAP animations React, open source animation library, web animation components, Lenis smooth scroll, GSAP ScrollTrigger components, Next.js animation library
+title: TweenLabs — Premium Open Source GSAP Component Library for Next.js
+description: A free, open-source GSAP animation component library and UI template sandbox built with Next.js 16, React 19, and Lenis. Learn and build modern web animations with reusable, copy-paste ready components.
+keywords: TweenLabs, GSAP component library, GSAP Next.js, GSAP animations React, open source animation library, web animation components, Lenis smooth scroll, GSAP ScrollTrigger components, Next.js animation library
 -->
 
-# GSAP Playground
+# TweenLabs
 
 > The open-source **GSAP animation component library** for Next.js developers — learn, copy, and contribute modern web animation patterns built with **GSAP 3.15**, **Next.js 16**, and **Lenis**.
 
-**[Live Demo](https://gsap-playground.xyz)** • **[Contributing Guide](#contributing)** • **[Roadmap](#roadmap)**  
+**[Live Demo](https://tweenlabs.xyz)** • **[Contributing Guide](#contributing)** • **[Roadmap](#roadmap)**  
 
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?style=flat-square)
 ![GSAP](https://img.shields.io/badge/GSAP-3.15-88CE02?style=flat-square)
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
 
-<!-- [Contributors](https://img.shields.io/github/contributors/GSAP-PLAYGROUND/gsap-playground?style=flat-square) -->
+<!-- [Contributors](https://img.shields.io/github/contributors/GSAP-PLAYGROUND/TweenLabs?style=flat-square) -->
 
 ---
 
-## What is GSAP Playground?
+## What is TweenLabs?
 
-**GSAP Playground** is a community-driven, open-source collection of reusable GSAP animation components for Next.js and React. Every component is production-ready, well-documented, and built to help developers understand *how* advanced web animations work — not just copy code blindly.
+**TweenLabs** is a community-driven, open-source collection of reusable GSAP animation components for Next.js and React. Every component is production-ready, well-documented, and built to help developers understand *how* advanced web animations work — not just copy code blindly.
 
 No paid plugins. No locked content. Just clean, modern animation patterns anyone can learn from and build on.
 
@@ -41,7 +41,7 @@ No paid plugins. No locked content. Just clean, modern animation patterns anyone
 | **Page Transitions** | Seamless route change animations | Timeline, Next.js router |
 | **Smooth Scrolling** | Native-feel smooth scroll | Lenis + GSAP ticker |
 
-> More components added with every contribution. [See full list →](https://gsap-playground.xyz)
+> More components added with every contribution. [See full list →](https://tweenlabs.xyz)
 
 ---
 
@@ -63,8 +63,8 @@ No paid plugins. No locked content. Just clean, modern animation patterns anyone
 npm install -g pnpm
 
 # Clone and run
-git clone https://github.com/GSAP-PLAYGROUND/gsap-playground.git
-cd gsap-playground
+git clone https://github.com/GSAP-PLAYGROUND/TweenLabs.git
+cd TweenLabs
 pnpm install
 pnpm dev
 ```
@@ -75,13 +75,13 @@ Open [http://localhost:3000](http://localhost:3000) — pick any animation card 
 
 ## 🤝 Contributing
 
-GSAP Playground grows with the community. We welcome new components, bug fixes, docs, performance improvements, and accessibility enhancements.
+TweenLabs grows with the community. We welcome new components, bug fixes, docs, performance improvements, and accessibility enhancements.
 
 ### Steps
 
 ```bash
 # 1. Fork the repo, then clone your fork
-git clone https://github.com/YOUR_USERNAME/gsap-playground.git
+git clone https://github.com/YOUR_USERNAME/TweenLabs.git
 
 # 2. Create a branch
 git checkout -b feat/your-animation-name
@@ -122,7 +122,7 @@ git push origin feat/your-animation-name
 
 ## 🗺 Roadmap
 
-- [ ] Export as npm package (`@gsap-playground/components`)
+- [ ] Export as npm package (`@tweenlabs/components`)
 - [ ] Storybook integration for isolated component previews
 - [ ] Unit tests for animation logic
 - [ ] FLIP, Draggable, MorphSVG animation patterns
@@ -151,8 +151,6 @@ New to GSAP? These resources pair perfectly with this repo:
 
 ## 🌟 Contributors
 
-Thanks to everyone building this together. ❤️
-
 <!-- Add contributor grid here once you have 5+ contributors -->
 
 ---
@@ -161,7 +159,7 @@ Thanks to everyone building this together. ❤️
 
 <!-- 
 SEARCH TAGS (do not remove — improves GitHub discoverability):
-gsap animation library, gsap component library, gsap nextjs, gsap react components,
+tweenlabs, gsap animation library, gsap component library, gsap nextjs, gsap react components,
 open source animation, web animation components, lenis smooth scroll, scrolltrigger examples,
 next.js animation, gsap copy paste components, gsap learning, gsap playground
 -->
