@@ -5,7 +5,7 @@ description: A free, open-source GSAP animation component library and UI templat
 keywords: TweenLabs, GSAP component library, GSAP Next.js, GSAP animations React, open source animation library, web animation components, Lenis smooth scroll, GSAP ScrollTrigger components, Next.js animation library
 -->
 
-# TweenLabs
+# TweenLabs : Ready to Use GSAP COMPONENTS
 
 > The open-source **GSAP animation component library** for Next.js developers — learn, copy, and contribute modern web animation patterns built with **GSAP 3.15**, **Next.js 16**, and **Lenis**.
 
