@@ -63,7 +63,7 @@ No paid plugins. No locked content. Just clean, modern animation patterns anyone
 npm install -g pnpm
 
 # Clone and run
-git clone https://github.com/GSAP-PLAYGROUND/TweenLabs.git
+git clone https://github.com/TweenLabs/TweenLabs.git
 cd TweenLabs
 pnpm install
 pnpm dev
